@@ -2,3 +2,8 @@ Boys
 Andy
 Bob
 Charlie
+
+Girls
+Alice
+Barbie
+Cindrella
